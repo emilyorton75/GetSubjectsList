@@ -1,0 +1,13 @@
+{"subjects":[
+    {"subject":"Maths", "topics":[
+    {"topic":"Algebra", "subtopics":[
+    {"subtopic":"Linear Equations"},
+    {"subtopic":"Quadratic Equations"},
+    {"subtopic":"Simultaneous Equations"}
+]},
+    {"topic":"Calculus"},
+    {"topic":"Geometry"}
+]},
+    {"subject":"French", "Topics":""},
+    {"subject":"English", "Topics":""}
+]}
